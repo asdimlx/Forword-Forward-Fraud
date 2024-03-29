@@ -1,0 +1,4 @@
+﻿Layer Sequence,BA,ASR
+"Layer1_Poisoned, layer2_Poisoned",0.9677,1
+"Layer1_Poisoned, layer2_Unpoisoned",0.9608,1
+"Layer1_Unpoisoned, layer2_Poisoned",0.9618,0
